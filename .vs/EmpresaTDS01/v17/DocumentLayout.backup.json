@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|c:\\users\\marcelo.fcruz1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T11:19:54.849Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
