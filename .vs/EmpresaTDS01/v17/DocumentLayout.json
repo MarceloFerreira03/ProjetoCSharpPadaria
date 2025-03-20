@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|c:\\users\\marcelo.fcruz1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmsobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmsobrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|c:\\users\\marcelo.fcruz1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|c:\\users\\marcelo.fcruz1\\documents\\visual studio 2022\\empresatds01\\padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D6EDDAF-4042-4462-8474-A5107B9EF3D5}|Padaria\\Padaria.csproj|solutionrelative:padaria\\frmpesquisarfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmSobreNos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmSobreNos.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmSobreNos.cs",
-              "ToolTip": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmSobreNos.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmSobreNos.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "frmPesquisarFuncionarios.cs",
+              "DocumentMoniker": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmPesquisarFuncionarios.cs",
+              "ToolTip": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs",
+              "RelativeToolTip": "Padaria\\frmPesquisarFuncionarios.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T14:51:11.677Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-20T14:33:17.368Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Padaria\\frmLogin.cs",
-              "ToolTip": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmLogin.cs [Design]",
-              "RelativeToolTip": "Padaria\\frmLogin.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "frmPesquisarFuncionarios.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs",
+              "RelativeDocumentMoniker": "Padaria\\frmPesquisarFuncionarios.cs",
+              "ToolTip": "C:\\Users\\marcelo.fcruz1\\Documents\\Visual Studio 2022\\EmpresaTDS01\\Padaria\\frmPesquisarFuncionarios.cs [Design]",
+              "RelativeToolTip": "Padaria\\frmPesquisarFuncionarios.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-19T11:19:54.849Z",
+              "WhenOpened": "2025-03-20T14:27:12.157Z",
               "EditorCaption": " [Design]"
             }
           ]
